@@ -1,0 +1,15 @@
+Package: libcilkrts5
+Source: gcc-4.9
+Version: 4.9.2-10
+Architecture: amd64
+Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Installed-Size: 157
+Pre-Depends: multiarch-support
+Depends: gcc-4.9-base (= 4.9.2-10), libc6 (>= 2.14), libgcc1 (>= 1:4.8), libstdc++6 (>= 4.1.1)
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: http://gcc.gnu.org/
+Description: Intel Cilk Plus language extensions (runtime)
+ Intel Cilk Plus is an extension to the C and C++ languages to support
+ data and task parallelism.

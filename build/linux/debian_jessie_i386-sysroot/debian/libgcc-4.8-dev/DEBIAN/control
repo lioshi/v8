@@ -1,0 +1,15 @@
+Package: libgcc-4.8-dev
+Source: gcc-4.8
+Version: 4.8.4-1
+Architecture: i386
+Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Installed-Size: 5127
+Depends: gcc-4.8-base (= 4.8.4-1), libgcc1 (>= 1:4.8.4-1), libgomp1 (>= 4.8.4-1), libitm1 (>= 4.8.4-1), libatomic1 (>= 4.8.4-1), libasan0 (>= 4.8.4-1), libquadmath0 (>= 4.8.4-1)
+Recommends: libc6-dev (>= 2.13-5)
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: http://gcc.gnu.org/
+Description: GCC support library (development files)
+ This package contains the headers and static library files necessary for
+ building C programs which use libgcc, libgomp, libquadmath, libssp or libitm.

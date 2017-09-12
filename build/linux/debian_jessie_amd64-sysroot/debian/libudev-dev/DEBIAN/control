@@ -1,0 +1,14 @@
+Package: libudev-dev
+Source: systemd
+Version: 215-17+deb8u7
+Architecture: amd64
+Maintainer: Debian systemd Maintainers <pkg-systemd-maintainers@lists.alioth.debian.org>
+Installed-Size: 255
+Depends: libudev1 (= 215-17+deb8u7)
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: http://www.freedesktop.org/wiki/Software/systemd
+Description: libudev development files
+ This package contains the files needed for developing applications that
+ use libudev.

@@ -1,0 +1,19 @@
+Package: libfontconfig1-dev
+Source: fontconfig
+Version: 2.11.0-6.3+deb8u1
+Architecture: i386
+Maintainer: Keith Packard <keithp@debian.org>
+Installed-Size: 1701
+Depends: libfontconfig1 (= 2.11.0-6.3+deb8u1), libexpat1-dev, libfreetype6-dev (>= 2.1.7), pkg-config
+Provides: libfontconfig-dev
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Description: generic font configuration library - development
+ Fontconfig is a font configuration and customization library, which
+ does not depend on the X Window System. It is designed to locate
+ fonts within the system and select them according to requirements
+ specified by applications.
+ .
+ This package contains the static libraries and headers needed for the
+ development of applications using fontconfig.

@@ -1,0 +1,8 @@
+af0c0f0b4b775a87ec2ac11c4210be16  usr/include/speech-dispatcher/libspeechd.h
+43ee05db7a0b9f3c1d943ed3bee6035f  usr/include/speech-dispatcher/spd_audio_plugin.h
+3c30e7212b4c2829882ce7bf396594a3  usr/include/speech-dispatcher/speechd_types.h
+675b9879db0d62cfb073439e81b7ed65  usr/lib/i386-linux-gnu/libspeechd.a
+7447d2348b121110ab69f31fca6e1db9  usr/lib/i386-linux-gnu/pkgconfig/speech-dispatcher.pc
+4aac7a2c2cc99b63f955ee9b3b57dc01  usr/share/doc/libspeechd-dev/changelog.Debian.gz
+9d28ac8971f95a0b7d0dee16389c9de5  usr/share/doc/libspeechd-dev/changelog.gz
+dddb2a5ac1e9c140f14abe9da93b3fba  usr/share/doc/libspeechd-dev/copyright

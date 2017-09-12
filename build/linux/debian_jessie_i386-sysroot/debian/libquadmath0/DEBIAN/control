@@ -1,0 +1,16 @@
+Package: libquadmath0
+Source: gcc-4.9
+Version: 4.9.2-10
+Architecture: i386
+Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Installed-Size: 570
+Pre-Depends: multiarch-support
+Depends: gcc-4.9-base (= 4.9.2-10), libc6 (>= 2.10)
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: http://gcc.gnu.org/
+Description: GCC Quad-Precision Math Library
+ A library, which provides quad-precision mathematical functions on targets
+ supporting the __float128 datatype. The library is used to provide on such
+ targets the REAL(16) type in the GNU Fortran compiler.

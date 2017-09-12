@@ -1,0 +1,14 @@
+7c6683ad09e35d00f1ff380bae566f61  usr/bin/makedb
+e8a7a001427d91e1a1b893d2af63b901  usr/lib/libnss_db-2.2.3.so
+a6c1720422fa9dd71d4ae55897317e60  usr/share/doc/libnss-db/NEWS.gz
+5df4581345c1f57663dfbcd64e7a45b0  usr/share/doc/libnss-db/README
+395a930fb7b7f6cf5f20ffa36c8afe00  usr/share/doc/libnss-db/changelog.Debian.gz
+a09f35913f3afb77ffc44f9f55129814  usr/share/doc/libnss-db/changelog.Debian.i386.gz
+3f94cd94848e39baf8591ac60f64789b  usr/share/doc/libnss-db/changelog.gz
+27dea76b51b7bde71a067dbebf37c736  usr/share/doc/libnss-db/copyright
+00de30c986fb44d765bef0ec35c08dad  usr/share/locale/de/LC_MESSAGES/nss_db.mo
+1c73bf27889602374794561dfd0a50fd  usr/share/locale/nl/LC_MESSAGES/nss_db.mo
+c583e20fc6dc2be4ab355919f4f5cfaf  usr/share/locale/pl/LC_MESSAGES/nss_db.mo
+6ee0f63e1271b1127d75644d015cc774  usr/share/locale/sv/LC_MESSAGES/nss_db.mo
+a1efdf520ad0198f314fbd0c783898fa  usr/share/man/man1/makedb.1.gz
+305c810f2a652d0ffa1520662c2e15a8  var/lib/misc/Makefile

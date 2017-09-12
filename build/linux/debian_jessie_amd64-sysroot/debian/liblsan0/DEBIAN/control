@@ -1,0 +1,15 @@
+Package: liblsan0
+Source: gcc-4.9
+Version: 4.9.2-10
+Architecture: amd64
+Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Installed-Size: 257
+Pre-Depends: multiarch-support
+Depends: gcc-4.9-base (= 4.9.2-10), libc6 (>= 2.3), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: http://gcc.gnu.org/
+Description: LeakSanitizer -- a memory leak detector (runtime)
+ LeakSanitizer (Lsan) is a memory leak detector which is integrated
+ into AddressSanitizer.

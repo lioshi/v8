@@ -1,0 +1,9 @@
+6870ababd6c7442db582704ae724f69a  usr/include/X11/extensions/XTest.h
+bf4307ca11adabd494cd8546def4efa7  usr/include/X11/extensions/record.h
+21dd9f91ac678c1a752c67060e62b596  usr/lib/x86_64-linux-gnu/libXtst.a
+4b539f6b62bec93ae80ffd9ab97f1948  usr/lib/x86_64-linux-gnu/pkgconfig/xtst.pc
+1998d6c0854e9ff74fff99ffb719e215  usr/share/doc/libxtst-dev/changelog.Debian.amd64.gz
+8eb748d9f7b628840b918a9994da7264  usr/share/doc/libxtst-dev/changelog.Debian.gz
+ce18b20cf8fde7b095a8e23ce02e1a1d  usr/share/doc/libxtst-dev/changelog.gz
+6cf1637ccaf939b5ba4aae49ccef674d  usr/share/doc/libxtst-dev/copyright
+b54b7459f24aedfe596ad89125ca09db  usr/share/man/man3/XTestQueryExtension.3.gz

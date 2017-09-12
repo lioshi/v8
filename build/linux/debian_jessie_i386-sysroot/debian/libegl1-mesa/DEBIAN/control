@@ -1,0 +1,24 @@
+Package: libegl1-mesa
+Source: mesa
+Version: 10.3.2-1+deb8u1
+Architecture: i386
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 225
+Pre-Depends: multiarch-support
+Depends: libc6 (>= 2.8), libdrm2 (>= 2.4.25), libexpat1 (>= 2.0.1), libgbm1 (>= 7.11~1), libwayland-client0 (>= 1.3.92), libwayland-server0 (>= 1.2.0), libx11-6, libx11-xcb1, libxcb-dri2-0 (>= 1.8), libxcb-render0, libxcb-shape0, libxcb-xfixes0, libxcb1, libudev1
+Recommends: libegl1-mesa-drivers
+Conflicts: libegl1-x11
+Replaces: libegl1-x11
+Provides: libegl1-x11
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: http://mesa3d.sourceforge.net/
+Description: free implementation of the EGL API -- runtime
+ This package contains the EGL native platform graphics interface library.
+ EGL provides a platform-agnostic mechanism for creating rendering surfaces
+ for use with other graphics libraries, such as OpenGL|ES and OpenVG.
+ .
+ This package contains modules to interface with the existing system GLX or
+ DRI2 drivers to provide OpenGL via EGL.  The libegl1-mesa-drivers package
+ provides drivers to provide hardware-accelerated OpenGL|ES and OpenVG support.

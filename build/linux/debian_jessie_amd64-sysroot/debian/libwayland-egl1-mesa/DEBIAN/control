@@ -1,0 +1,19 @@
+Package: libwayland-egl1-mesa
+Source: mesa
+Version: 10.3.2-1+deb8u1
+Architecture: amd64
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 88
+Pre-Depends: multiarch-support
+Depends: libc6 (>= 2.2.5), libegl1-mesa (= 10.3.2-1+deb8u1)
+Recommends: libegl1-mesa-drivers
+Conflicts: libwayland-egl1
+Breaks: libegl1-mesa-drivers (<< 10.1.0-2)
+Replaces: libegl1-mesa-drivers (<< 10.1.0-2), libwayland-egl1
+Provides: libwayland-egl1
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: http://mesa3d.sourceforge.net/
+Description: implementation of the Wayland EGL platform -- runtime
+ This package contains the mesa implementation of the Wayland EGL platform

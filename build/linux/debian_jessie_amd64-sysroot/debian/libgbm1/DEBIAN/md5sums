@@ -1,0 +1,6 @@
+250011b727b5d31804961711c63b1efa  usr/lib/x86_64-linux-gnu/gbm/gbm_gallium_drm.so
+70b6f7a3e3aff10ffb046eb7e0b7c8f6  usr/lib/x86_64-linux-gnu/libgbm.so.1.0.0
+7f0d95ab544ef194372363bb93229ede  usr/share/bug/libgbm1/control
+114f277e413ffae0a725cc024a955b47  usr/share/bug/libgbm1/script
+138e5efc8f1525a18af134a7e0b628f9  usr/share/doc/libgbm1/changelog.Debian.gz
+241ed682eeb4973b7b7ac9131624f31f  usr/share/doc/libgbm1/copyright

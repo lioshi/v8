@@ -1,0 +1,17 @@
+Package: libgbm1
+Source: mesa
+Version: 10.3.2-1+deb8u1
+Architecture: amd64
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 4344
+Pre-Depends: multiarch-support
+Depends: libc6 (>= 2.17), libdrm-nouveau2 (>= 2.4.38), libdrm-radeon1 (>= 2.4.31), libdrm2 (>= 2.4.38), libelf1 (>= 0.142), libexpat1 (>= 2.0.1), libgcc1 (>= 1:4.7), libglapi-mesa, libllvm3.5, libstdc++6 (>= 4.9), libwayland-client0 (>= 1.2.0), libwayland-server0 (>= 1.2.0), libudev1
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: http://mesa3d.sourceforge.net/
+Description: generic buffer management API -- runtime
+ This package contains the GBM buffer management library.  It provides a
+ mechanism for allocating buffers for graphics rendering tied to Mesa.
+ .
+ GBM is intended to be used as a native platform for EGL on drm or openwfd.

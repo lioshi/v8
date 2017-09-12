@@ -1,0 +1,20 @@
+Package: libwayland-dev
+Source: wayland
+Version: 1.6.0-2
+Architecture: amd64
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 576
+Depends: libwayland-client0 (= 1.6.0-2), libwayland-server0 (= 1.6.0-2), libwayland-cursor0 (= 1.6.0-2), libc6 (>= 2.14), libexpat1 (>= 2.0.1)
+Section: libdevel
+Priority: extra
+Homepage: http://wayland.freedesktop.org/
+Description: wayland compositor infrastructure - development files
+ Wayland is a protocol for a compositor to talk to its clients as well
+ as a C library implementation of that protocol. The compositor can be
+ a standalone display server running on Linux kernel modesetting and
+ evdev input devices, an X application, or a wayland client
+ itself. The clients can be traditional applications, X servers
+ (rootless or fullscreen) or other display servers.
+ .
+ This package contains the development headers for the Wayland libraries.
+ Non-developers likely have little use for this package.

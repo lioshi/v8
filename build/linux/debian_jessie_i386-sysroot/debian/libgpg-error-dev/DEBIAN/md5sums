@@ -1,0 +1,14 @@
+21f7771d390fbbda3a3f2126169d4ef1  usr/bin/gpg-error
+bcdd15db0f66cd5f7a5b91967a7c35b2  usr/bin/gpg-error-config
+4d77dd8d9f77c8bd4ee94765471da1c6  usr/include/i386-linux-gnu/gpg-error.h
+3462abf4e769705f34f75fb4bb69d326  usr/lib/i386-linux-gnu/libgpg-error.a
+5e83391721b08a27a61cd69525d66e9c  usr/lib/i386-linux-gnu/libgpg-error.la
+5f6d92631dafe0746085dcb59f47a4c9  usr/share/aclocal/gpg-error.m4
+0af78597861468ba0210aed7a0777de7  usr/share/doc/libgpg-error-dev/README.gz
+7efa3d4960ce45f70ff38e3204413009  usr/share/doc/libgpg-error-dev/TODO.Debian
+11b752dade1e71d0bd20391c83443419  usr/share/doc/libgpg-error-dev/changelog.Debian.gz
+58d12dedc758b79207b68c64704e8832  usr/share/doc/libgpg-error-dev/changelog.gz
+619352e877df609e20596a620885cfdf  usr/share/doc/libgpg-error-dev/copyright
+e81efda3934bc3b89caec8d4b24299e6  usr/share/info/gpgrt.info.gz
+f9569611eb37a0ca4d627edde6b69a22  usr/share/man/man1/gpg-error-config.1.gz
+774ed39ab50374a493a55a9d1eca225b  usr/share/man/man1/gpg-error.1.gz

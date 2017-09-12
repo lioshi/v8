@@ -1,0 +1,13 @@
+47f75d2a8d6600337371520bca161c67  usr/include/sys/capability.h
+e996969bd75896f421e76b125784ae43  usr/lib/x86_64-linux-gnu/libcap.a
+50e80436c56598cef2331d1433d5c694  usr/lib/x86_64-linux-gnu/pkgconfig/libcap.pc
+b6fb15c116512ffb44d5c3c9bf4fe88a  usr/share/doc/libcap-dev/changelog.Debian.gz
+1361c12988f83e2ac6a6d11811c989e3  usr/share/doc/libcap-dev/changelog.gz
+a4a557884943e1f62b7272cc053e2906  usr/share/doc/libcap-dev/copyright
+616be61eb915589f71aaccde79dd5b25  usr/share/man/man3/cap_clear.3.gz
+a1992f74ad13260d3af0535b003ab780  usr/share/man/man3/cap_copy_ext.3.gz
+5eb6511b207c5506eb396de681c63b30  usr/share/man/man3/cap_from_text.3.gz
+fd49af753de22f2b3afec405d4d42b14  usr/share/man/man3/cap_get_file.3.gz
+254ae0ed9b8e128052d57a98e90c447a  usr/share/man/man3/cap_get_proc.3.gz
+787c6bf3a2b4f2ef06d8b23d5ab97231  usr/share/man/man3/cap_init.3.gz
+43f851a2647db63fb161a22d1235d6f3  usr/share/man/man3/libcap.3.gz
